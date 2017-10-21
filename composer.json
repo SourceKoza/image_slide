@@ -13,7 +13,7 @@
             "role": "Developer"
         }
     ],
-     "minimum-stability": "dev",
+     "stability": "stable",
      "prefer-stable": "true",
       "suggest": {
         "source-koza/image_slide": "Allows more advanced image slider of the application flow",
