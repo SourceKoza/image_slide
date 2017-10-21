@@ -1,0 +1,25 @@
+{
+    "name": "source-koza/image-slider",
+    
+    "description": "image slider using javascript",
+    "keywords": ["slider","image"],
+    "homepage": "https://github.com/SourceKoza/image_slide",
+    "license": "General",
+    "type":"project",
+    "authors": [
+        {
+            "name": "Ramesh Pandey",
+            "email": "rameshkpandey1889@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    
+      "suggest": {
+        "source-koza/image_slide": "Allows more advanced image slider of the application flow",
+        "ext-xml": "Needed to support Jquiry format"
+    }
+    
+    
+    
+    
+}
